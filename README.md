@@ -1,2 +1,1 @@
-# myrepo
-My Repository
+# rxjs-tutorial
